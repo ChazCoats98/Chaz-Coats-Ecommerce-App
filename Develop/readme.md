@@ -22,11 +22,11 @@
   ## License
   This project is licensed under the MIT license.
 
-  ## Contributing
-  N/A
+  ## Demo
+  [Untitled_ Sep 5, 2023 3_56 PM.webm](https://github.com/ChazCoats98/Chaz-Coats-Ecommerce-App/assets/134428862/259862b3-c2a8-4b6c-a569-c6dc60dd1021)
 
-  ## Tests
-  N/A
+  ## Repository
+  https://github.com/ChazCoats98/Chaz-Coats-Ecommerce-App
 
   ## Questions
   To view my GitHub profile, visit [GitHub] (https://github.com/ChazCoats98).
